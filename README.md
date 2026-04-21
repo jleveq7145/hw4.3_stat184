@@ -3,13 +3,14 @@
 **Date:** April 2026
 
 ## About This Repository
-This repository hosts the work from Homework 4.3, and establishes a history of version control regarding Homework 4.3. 
+This repository hosts the work from Homework 4.3, with the data analysis from that assignment. Also, this repository 
+establishes a history of version control regarding Homework 4.3. 
 
 ## Repository Maintenance Plan
-- Work is done on the `development` branch and merged into `main` via pull requests
-- GitHub Issues are used to track tasks before starting them
+- Work is completed in the hw4.3_work branch and then sent to the README branch
+- Issues are tracking tasks that need to be completed/have been completed.
 - Commit messages describe exactly what changed and why
-- The `main` branch only receives merged, completed work
+- The `main` branch only receives work that is fully completed. 
 
 ## HW 4.3 Analysis Plan
 This assingment consisted of three different analyses of datasets from previous homeworks:
